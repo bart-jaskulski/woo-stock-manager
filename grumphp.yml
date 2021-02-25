@@ -1,0 +1,4 @@
+grumphp:
+    tasks:
+      phpcs: null
+      git_commit_message: ~
